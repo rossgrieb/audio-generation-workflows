@@ -83,6 +83,7 @@ I rely heavily on A/B comparisons and incremental refinement rather than subject
 
 /generation-notes
   - iteration-notes.md # documented changes and observed effects
+```
 
 These examples illustrate how small, intentional changes in inputs produce measurable improvements in outputs.
 
